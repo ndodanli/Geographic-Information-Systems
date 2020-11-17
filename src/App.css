@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.canvas {
+  border: 1px solid #c3c3c3;
+}
+
+.props {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 5px;
+}
+
+.props div{
+  flex-direction: row;
+}
+.props textarea{
+  resize: none;
+}
+.x-y-group{
+  margin-left: 40%;
+  margin-right: 40%;
+}
